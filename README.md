@@ -38,20 +38,6 @@ Key work:
 
 ---
 
-### WEX Exchange Platform
-DEX style trading platform simulating blockchain mechanics in Web2 architecture.
-
-Tech:
-React • Node • Microservices • Queue systems
-
-Key work:
-- Swap engine design
-- Liquidity pool simulation
-- Order routing logic
-- Financial calculation engine
-
----
-
 ### AI Platform Automation Systems
 
 Integrated LLM powered workflows into production engineering environments.
@@ -113,7 +99,7 @@ PostgreSQL • MongoDB • Redis • Elasticsearch • Supabase
 Solidity • Web3.js • Ethers.js • DeFi systems
 
 ### AI
-OpenAI • LLM integration • Automation workflows
+OpenAI / Claude • LLM integration • AI Agent development • Automation workflows
 
 ---
 
@@ -142,13 +128,8 @@ Portfolio:
 https://0xdanieltran.vercel.app
 
 Open to:
-Platform engineering roles  
-AI infrastructure work  
+Platform engineering roles
+AI infrastructure work
 Financial systems  
 Blockchain engineering
-
----
-
-## GitHub Stats
-
-(stats widgets here)
+Fullstack / Backend / Frontend Development
