@@ -97,8 +97,8 @@ Portfolio:
 https://0xdanieltran.vercel.app
 
 Open to:
-Platform engineering roles
-AI infrastructure work
-Financial systems  
-Blockchain engineering
+Platform engineering roles, 
+AI infrastructure work, 
+Financial systems, 
+Blockchain engineering, 
 Fullstack / Backend / Frontend Development
