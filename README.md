@@ -53,37 +53,6 @@ Key work:
 
 ---
 
-## Engineering Capabilities
-
-### Platform Engineering
-- Distributed architecture
-- High concurrency backend design
-- Microservices systems
-- Financial transaction platforms
-- API architecture
-
-### Blockchain Infrastructure
-- Wallet platforms
-- Exchange systems
-- Token infrastructure
-- DeFi architecture
-- Web3 integrations
-
-### AI Systems
-- LLM integrations
-- AI automation workflows
-- Intelligent analytics
-- Agent concepts
-
-### Cloud Architecture
-- AWS
-- Docker
-- Kubernetes
-- CI/CD systems
-- Observability
-
----
-
 ## Technology Stack
 
 ### Frontend
