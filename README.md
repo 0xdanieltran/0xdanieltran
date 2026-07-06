@@ -1,104 +1,36 @@
 # Daniel Tran
 ### Senior Full Stack Engineer
-SaaS • Fintech • AI • Web3 Platforms
 
-Building scalable financial systems, digital asset infrastructure, and AI-powered platforms.
+Building scalable SaaS, AI, fintech, and Web3 platforms.
 
-[Portfolio](https://0xdanieltran.vercel.app) • [LinkedIn](https://linkedin.com/in/0xdanieltran) • [X](https://x.com/0xdanieltran106) • [GitHub](https://github.com/0xdanieltran) • [Email](danillppiont106@gmail.com)
+🌐 Portfolio: https://0xdanieltran.vercel.app  
+𝕏 X: https://x.com/0xdanieltran106
+💼 LinkedIn: https://linkedin.com/in/0xdanieltran106  
+🐙 GitHub: https://github.com/0xdanieltran  
 
----
-
-## About Me
-
-Senior Full Stack Engineer with 9+ years building production SaaS platforms, fintech infrastructure, and blockchain ecosystems. Strong focus on backend architecture, distributed systems, and high-scale platform engineering.
-
-Currently focused on:
-- AI integrated platform engineering
-- Digital asset infrastructure
-- Financial backend automation
-- Developer productivity systems
 
 ---
 
-## Selected Projects
+## About
 
-### DFS Chain Ecosystem
-Wallet • Exchange • Explorer • Token Infrastructure
+Senior Full Stack Engineer with 9+ years of experience building scalable web applications, backend systems, and distributed platforms.
 
-Built a complete digital asset ecosystem including wallet infrastructure, transaction engine, token management, and simulated exchange systems.
-
-Tech:
-Next.js • Node.js • PostgreSQL • Redis • Distributed services
-
-Key work:
-- Designed transaction engine
-- Built wallet infrastructure
-- Developed token lifecycle system
-- Implemented exchange simulation logic
+**Core Stack**
+- React, Next.js, TypeScript
+- Node.js, NestJS, GraphQL
+- PostgreSQL, MongoDB, Redis
+- AWS, Docker
+- OpenAI, Claude, AI Agents
 
 ---
 
-### AI Platform Automation Systems
+## Highlights
 
-Integrated LLM powered workflows into production engineering environments.
-
-Tech:
-OpenAI API • Node • Platform tooling
-
-Key work:
-- AI workflow automation
-- Developer productivity tools
-- Analytics integration
-- Intelligent backend processes
+- Built large-scale SaaS and fintech platforms
+- Designed distributed backend architectures
+- Integrated AI and LLM-powered workflows
+- Led projects from architecture to production
 
 ---
 
-## Technology Stack
-
-### Frontend
-React • Next.js • TypeScript • Tailwind • Vue
-
-### Backend
-Node.js • Express • NestJS • GraphQL • REST
-
-### Data
-PostgreSQL • MongoDB • Redis • Elasticsearch • Supabase
-
-### Blockchain
-Solidity • Web3.js • Ethers.js • DeFi systems
-
-### AI
-OpenAI / Claude • LLM integration • AI Agent development • Automation workflows
-
----
-
-## Experience Highlights
-
-- Built digital asset platforms and exchange infrastructure
-- Designed backend systems handling millions of operations
-- Delivered SaaS and fintech platforms
-- Integrated AI workflows into production systems
-- Led architecture and scaling initiatives
-
----
-
-## Current Focus
-
-AI + Financial infrastructure  
-Intelligent backend systems  
-Digital economies  
-Platform automation  
-
----
-
-## Contact
-
-Portfolio:
-https://0xdanieltran.vercel.app
-
-Open to:
-Platform engineering roles, 
-AI infrastructure work, 
-Financial systems, 
-Blockchain engineering, 
-Fullstack / Backend / Frontend Development
+**Open to:** Full Stack • Backend • AI • Platform Engineering
