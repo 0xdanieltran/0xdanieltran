@@ -4,9 +4,10 @@
 Building scalable SaaS, AI, fintech, and Web3 products.
 
 🌐 Portfolio: https://0xdanieltran.vercel.app  
+🐙 GitHub: https://github.com/0xdanieltran  
 𝕏 Twitter: https://x.com/0xdanieltran106  
 💼 LinkedIn: https://linkedin.com/in/0xdanieltran106  
-🐙 GitHub: https://github.com/0xdanieltran  
+
 
 ---
 
