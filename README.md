@@ -8,8 +8,9 @@ Building scalable SaaS, AI, fintech, and Web3 products.
 𝕏 Twitter: https://x.com/0xdanieltran106  
 
 ---
+## 🚀 Recent Projects
 
-## 🎬 [AnimCoder AI](https://animcoder.vercel.app)
+### 🎬 [AnimCoder AI](https://animcoder.vercel.app)
 
 An AI-powered creative coding platform that turns ideas into interactive, code-generated animations directly in the browser, with live previews and MP4 export.
 
@@ -18,8 +19,6 @@ An AI-powered creative coding platform that turns ideas into interactive, code-g
 🔗 **Live:** https://animcoder.vercel.app
 
 ---
-
-## 🚀 Recent Projects
 
 ### 🏆 [LovaRank](https://lovarank.lol)
 
