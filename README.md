@@ -6,8 +6,16 @@ Building scalable SaaS, AI, fintech, and Web3 products.
 🌐 Portfolio: https://0xdanieltran.vercel.app  
 🐙 GitHub: https://github.com/0xdanieltran  
 𝕏 Twitter: https://x.com/0xdanieltran106  
-💼 LinkedIn: https://linkedin.com/in/0xdanieltran106  
 
+---
+
+## 🎬 [AnimCoder AI](https://animcoder.vercel.app)
+
+An AI-powered creative coding platform that turns ideas into interactive, code-generated animations directly in the browser, with live previews and MP4 export.
+
+**Tech:** React • TypeScript • AI • Canvas/Web Animations • Vercel
+
+🔗 **Live:** https://animcoder.vercel.app
 
 ---
 
